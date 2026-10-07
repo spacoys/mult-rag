@@ -31,9 +31,10 @@
 
 
 ### Запуск
+
+```bash
 streamlit run ui/app.py
-
-
+```
 Пример поиска по resume.pdf
 
 
